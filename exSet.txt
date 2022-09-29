@@ -1,0 +1,6 @@
+Douglas,13
+Gabriel,21
+Jooa,22
+Maria,35
+Paulo,42
+Carlos,50
